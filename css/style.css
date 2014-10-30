@@ -22,7 +22,8 @@ time, mark, audio, video {
     font-size:100%;
     vertical-align:baseline;
     background:transparent;
-}
+   }
+  
 body {
     line-height:1;
 }
@@ -89,7 +90,7 @@ input, select {
 
 
 /*** Main Layout ***/
-body {text-align: center; color: #fff; background-color:#000; font-family: Arial, Helvetica, sans-serif;}
+body {text-align: center; color: #fff; background:#000;}
 #wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -99,7 +100,7 @@ article {width: 60%; float: left;}
 aside {width: 33.3%; float: right;}
 .clear {clear: both;}
 
-article {text-align: center;}
+aarticle {text-align: center;}
 
 /*** END Main Layout ***/
 
