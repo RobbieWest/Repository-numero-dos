@@ -90,7 +90,7 @@ input, select {
 
 
 /*** Main Layout ***/
-body {text-align: center; color: #fff; background:#000;}
+body {text-align: center; color: #fff; background: url(../img/background.jpg) top left;}
 #wrapper {
 	width: 960px;
 	margin: 0 auto;
