@@ -152,8 +152,12 @@ nav a:hover{
 article h2, article h3 {padding: 20px 0;}
 article p {padding: 50px 0;}
 
-article h2, article h3, article p {border: solid 2px purple; margin-bottom: 10px;}
-article h2{font-size: 30px;}
+
+article h2{font-size: 30px;
+background: url(../img/Beef-Enchiladas.jpg) top left;
+height: 200px;
+width: 700px;
+}
 
 
 
