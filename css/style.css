@@ -109,7 +109,7 @@ article {text-align: center;}
 
 
 /*** Header ***/
-
+<<<<<<< HEAD
 header
 p {absolute:;
 font-size: 25px;
@@ -120,12 +120,12 @@ margin-bottom: 20px;
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
-
+=======
 header h1 {
 	background: url(../img/logo.png);
 	width:393px;
 	height:267px;
-
+>>>>>>> origin/master
 	font-size: 70px;
 	color: black;
 	margin-bottom: 20px;
