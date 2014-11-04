@@ -109,10 +109,7 @@ article {text-align: center;}
 
 
 /*** Header ***/
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
 header
 p {absolute:;
 font-size: 25px;
@@ -123,20 +120,17 @@ margin-bottom: 20px;
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
-<<<<<<< HEAD
 
 header h1 {
 	background: url(../img/logo.png);
 	width:393px;
 	height:267px;
 
-=======
->>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
 	font-size: 70px;
-	text-align: center;
 	color: black;
 	margin-bottom: 20px;
 	font-weight: normal; /* Bold was too much! */
+	margin-left: 250px
 }
 nav li{
 	border-style: solid;
@@ -173,15 +167,31 @@ article p {padding: 50px 0;}
 
 
 article h2{font-size: 30px;
-background: url(../img/Beef-Enchiladas.jpg) top left;
-height: 200px;
-width: 700px;
+background: url(../img/Enchiladas.jpg) top left;
+height: 270px;
+width: 1150px;
 border-style:solid;
 border-width:2px;
 border-color:#000;
 }
-
-
+article h3 {
+	background: url(../img/specials.jpg) top left;
+	width: 500px;
+	height: 225px;
+	border-style:solid;
+	border-width:2px;
+	border-color:#000;
+	float:left
+}
+article h4 {
+	background: url(../img/events.jpg) top right;
+	height: 249px;
+	width: 579px
+	border-style:solid;
+	border-width:2px;
+	border-color:#000;
+	float: none
+}
 
 
 
@@ -192,12 +202,6 @@ border-color:#000;
 
 
 /*** Sidebar and Footer ***/
-aside {
-	font-size: 25px;
-	padding-top: 50px;
-}
-aside div {border: solid 2px purple; height: 180px; padding-top: 100px;}
-
 footer { padding-top: 25px; text-align: left; }
 
 
