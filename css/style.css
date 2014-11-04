@@ -109,13 +109,7 @@ article {text-align: center;}
 
 
 /*** Header ***/
-header
-p {absolute:;
-font-size: 25px;
-color: black;
-margin-bottom: 20px;
-}
- h1 {
+header h1 {
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
