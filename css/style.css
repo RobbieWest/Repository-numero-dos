@@ -109,10 +109,35 @@ article {text-align: center;}
 
 
 /*** Header ***/
-header h1 {
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
+=======
+>>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
+header
+p {absolute:;
+font-size: 25px;
+color: black;
+margin-bottom: 20px;
+}
+ h1 {
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+header h1 {
+	background: url(../img/logo.png);
+	width:393px;
+	height:267px;
+
+=======
+>>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
+=======
+>>>>>>> parent of dfc098b... Merge remote-tracking branch 'origin/master'
 	font-size: 70px;
 	text-align: center;
 	color: black;
