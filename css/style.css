@@ -120,15 +120,19 @@ header h1 {
 	font-weight: normal; /* Bold was too much! */
 }
 nav li{
-	border-style: solid;
-	border-color:black;
-	border-width:2px;
+	
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
-	font-size: 35px;
+	font-size: 20px;
 	padding: 5px 20px;
 	
+}
+nav {
+	border-style: solid;
+	border-color:black;
+	border-width:2px;
+	padding:10px
 }
 nav li.last {margin-right: 0;}
 nav a {
@@ -136,7 +140,7 @@ nav a {
 	text-decoration: none;
 }
 nav a:hover{
-	color:black;
+	color:red;
 }
 
 
@@ -154,9 +158,9 @@ article p {padding: 50px 0;}
 
 
 article h2{font-size: 30px;
-background: url(../img/Beef-Enchiladas.jpg) top left;
-height: 200px;
-width: 700px;
+background: url(../img/enchiladas.jpg) top left;
+height: 250px;
+width: 1000px;
 border-style:solid;
 border-width:2px;
 border-color:#000;
