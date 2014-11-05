@@ -124,7 +124,7 @@ nav li{
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
-	font-size: 35px;
+	font-size: 20px;
 	padding: 5px 20px;
 	
 }
@@ -132,6 +132,7 @@ nav {
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
+	padding:10px
 }
 nav li.last {margin-right: 0;}
 nav a {
@@ -139,7 +140,7 @@ nav a {
 	text-decoration: none;
 }
 nav a:hover{
-	color:black;
+	color:red;
 }
 
 
@@ -156,15 +157,11 @@ article h2, article h3 {padding: 20px 0;}
 article p {padding: 50px 0;}
 
 
-article h2{font-size: 30px;
+article h2{
+font-size: 30px;
 background: url(../img/enchiladas.jpg) top left;
-<<<<<<< HEAD
-height: 270px;
-width: 1150px;
-=======
 height: 250px;
-width: 1000px;
->>>>>>> FETCH_HEAD
+width: 1050px;
 border-style:solid;
 border-width:2px;
 border-color:#000;
@@ -176,7 +173,6 @@ article h3 {
 	border-style:solid;
 	border-width:2px;
 	border-color:#000;
-	float:left
 }
 article h4 {
 	background: url(../img/events.jpg) top right;
@@ -185,7 +181,6 @@ article h4 {
 	border-style:solid;
 	border-width:2px;
 	border-color:#000;
-	float: none
 }
 
 
