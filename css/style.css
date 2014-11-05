@@ -158,8 +158,13 @@ article p {padding: 50px 0;}
 
 article h2{font-size: 30px;
 background: url(../img/enchiladas.jpg) top left;
+<<<<<<< HEAD
 height: 270px;
 width: 1150px;
+=======
+height: 250px;
+width: 1000px;
+>>>>>>> FETCH_HEAD
 border-style:solid;
 border-width:2px;
 border-color:#000;
