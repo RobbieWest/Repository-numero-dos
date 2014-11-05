@@ -124,7 +124,7 @@ nav li{
 	display: inline;
 	margin-right: 75px;
 	text-align:center;
-	font-size: 20px;
+	font-size: 35px;
 	padding: 5px 20px;
 	
 }
@@ -132,7 +132,6 @@ nav {
 	border-style: solid;
 	border-color:black;
 	border-width:2px;
-	padding:10px
 }
 nav li.last {margin-right: 0;}
 nav a {
@@ -140,7 +139,7 @@ nav a {
 	text-decoration: none;
 }
 nav a:hover{
-	color:red;
+	color:black;
 }
 
 
@@ -158,15 +157,9 @@ article p {padding: 50px 0;}
 
 
 article h2{font-size: 30px;
-<<<<<<< HEAD
 background: url(../img/enchiladas.jpg) top left;
-height: 250px;
-width: 1000px;
-=======
-background: url(../img/Enchiladas.jpg) top left;
 height: 270px;
 width: 1150px;
->>>>>>> FETCH_HEAD
 border-style:solid;
 border-width:2px;
 border-color:#000;
