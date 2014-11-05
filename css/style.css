@@ -156,31 +156,35 @@ nav a:hover{
 article h2, .specials, .events {padding: 20px 0;}
 
 
-article h2{
+h2{
 font-size: 30px;
 background: url(../img/enchiladas.jpg) top left;
+background-size:cover;
 height: 250px;
-width: 1050px;
+width: 960px;
 border-style:solid;
 border-width:2px;
 border-color:#000;
 }
 .specials  {
 	background: url(../img/specials.jpg) top left;
-	width: 500px;
-	height: 225px;
+	background-size: cover;
+	width: 470px;
+	height: 213px;
 	border-style:solid;
 	border-width:2px;
 	border-color:#000;
-	float: left
+	float: left;
 }
 .events {
-	background: url(../img/events.jpg) top left;
-	height: 249px;
-	width: 579px
+	background: url(../img/events.jpg) top right;
+	background-size:cover;
+	height: 213px;
+	width: 470px;
 	border-style:solid;
 	border-width:2px;
 	border-color:#000;
+	float: right;
 	
 }
 
